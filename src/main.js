@@ -1,3 +1,4 @@
+import "./utils/Whitelist";
 import ErrorMapper from "./utils/ErrorMapper";
 import roleHarvester from "./role.harvester";
 import towers from "./tower";
